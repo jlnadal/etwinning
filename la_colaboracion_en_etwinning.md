@@ -1,0 +1,234 @@
+
+# La colaboración en eTwinning
+
+La colaboración en eTwinning es el aspecto fundamental para desarrollar un buen proyecto eTwinning y es la clave para el éxito de dicho proyecto.
+
+Aunque el aspecto básico en un proyecto eTwinning es la colaboración entre los centros participantes. Es importante hacernos la siguiente pregunta para tener más claro la idea clave de este bloque.
+
+<strong>¿Qué no es colaborar?</strong>
+
+
+![](img/no_colaborar.png)
+
+Fuente: [Photo for class](http://www.photosforclass.com/download/5098201846)
+
+Muchos de nosotros estamos acostumbrados a oír esta palabra y utilizarla en nuestro vocabulario del día a día, pero a veces tenemos una visión distorsionada del significado y por eso es imprescindible tener una respuesta a esta pregunta.
+
+Colaborar no sería el que los alumnos realicen las actividades de manera paralela en sus centros, obteniendo un resultado final independiente. 
+
+Tampoco lo conseguiríamos aunque nos comunicáramos y nos mostráramos esos productos finales, ni siquiera estaríamos colaborando si sumáramos los productos y los presentáramos como un único producto final.
+
+Por estas respuestas y muchas otras que nos puedan surgir, vamos a desgranar lo que es colaborar y aprenderemos reglas de oro para el éxito en un proyecto eTwinning.
+
+<strong>¿Qué es colaborar?</strong>
+
+La Real Academia de la Lengua Española dice que colaborar es **“****trabajar con otra u otras personas en la realización de una obra”**. Es decir, consiste en realizar algo de manera conjunta desde el inicio, en su desarrollo y en su finalización.
+
+
+![](img/colaborar.png)
+
+Fuente: [Photo for class](http://www.photosforclass.com/download/15167193342)
+
+Hay puntos clave en la colaboración que debemos tener en cuenta para poder llegar al éxito. Por ejemplo cuando realizamos este proceso seguramente partiremos de ideas muy diferentes y necesitaremos buscar el consenso. Para conseguir el consenso tendremos que negociar y debatir, eso implicará tener una mente abierta y disponer de tiempo para hacerlo. La frase “mente abierta” es uno de los objetivos que persiguen los proyectos eTwinning ya que facilitan la interacción de diferentes puntos de vista ya sean culturales, sociales, raciales, etc…   y como consecuencia de este objetivo y el uso del trabajo colaborativo, nuestra sociedad se convierte en más tolerante y respetuosa. Además, no debemos olvidar que muchas veces el tener consenso significa renunciar a las ideas propias en favor de las propuestas de nuestros socios.
+
+Las actividades colaborativas entre colegios participantes van más allá de la comunicación: los alumnos no son meros receptores de información; ellos son miembros de un equipo, co-autores y co-creadores. Es decir, son partícipes de todo el proceso del proyecto desde el inicio, su desarrollo y el final. Es aquí donde el docente tiene el papel más importante, debe crear el escenario y las condiciones adecuadas para que la colaboración surja y los alumnos aprendan el proceso de colaborar. Ahí surgirá un rol de guía acompañante por parte del maestro para llevar a buen fin el proceso colaborativo.
+
+En cuanto a la colaboración en un proyecto, dicho término significa que ambas clases o centros necesitan de la contribución de sus compañeros para realizar y terminar la tarea.
+
+Trabajar con grupos mixtos de diferentes nacionalidades o centros participantes es muy efectivo para el éxito de una tarea colaborativa. Es decir aunar un pequeño grupo de una clase de un centro participante con otro pequeño grupo de otro centro participante dará como resultado un grupo mixto con diferentes nacionalidades o centros diferentes.
+
+Lo descrito anteriormente sería una regla de oro para el éxito de una tarea colaborativa eTwinning. En el siguiente apartado recogeremos las mismas extraídas de la presentación [Collaborative Activities: the key to succesful eTwinning projects](https://prezi.com/mwyoih3ty1dm/expert-talk-collaborative-activities-the-key-to-successful-etwinning-projects/?utm_campaign=share&amp;utm_medium=copy) de Irene Pateraki y Paraskevi Belogia.
+
+ 
+
+<strong>Las reglas de oro.</strong>
+
+Como toda buena tarea o proyecto debe haber unas reglas que seguir y cumplir para garantizar el éxito de dicha tarea o proyecto. A continuación enumeramos nueve reglas de oro que harán de tu proyecto colaborativo eTwinning una garantía de éxito.
+
+<li dir="ltr">
+<strong>Llegar a conocer a tus compañeros.</strong> Es decir comparte toda la información necesaria con tus compañeros:
+</li>
+<ul>
+<li dir="ltr">
+Número de estudiantes que participan en el proyecto.
+</li>
+<li dir="ltr">
+La edad de los estudiantes y sus hobbies o intereses.
+</li>
+<li dir="ltr">
+El nivel de los estudiantes tanto en las lenguas extranjeras como su competencia digital.
+</li>
+</ul>
+<li dir="ltr">
+<strong>Crear un calendario detallado. </strong>Es decir, tener por escrito y marcado en un calendario compartido:
+</li>
+<ul>
+<li dir="ltr">
+Fijar las fechas de inicio para cada tarea.
+</li>
+<li dir="ltr">
+Marcar las fechas de períodos vacacionales de cada centro participante.
+</li>
+<li dir="ltr">
+Compartir el calendario con los estudiantes.
+</li>
+<li dir="ltr">
+Fijar las fechas de finalización y cumplirlas.
+</li>
+</ul>
+<li dir="ltr">
+<strong>Crear un plan preliminar para llevar a cabo un proyecto eTwinning exitoso.</strong>
+</li>
+<ul>
+<li dir="ltr">
+Planear un encuentro, introducir el proyecto a los alumnos e informar a las familias, los compañeros y el director sobre los puntos específicos del proyecto.
+</li>
+<li dir="ltr">
+Añadir más maestros de tu escuela al proyecto y formar equipos de trabajo en tu centro.
+</li>
+<li dir="ltr">
+Anunciar el inicio del proyecto en la página del colegio.
+</li>
+<li dir="ltr">
+Crear cuentas en Twinspace para todos los participantes e invitar a los estudiantes al Twinspace.
+</li>
+<li dir="ltr">
+Organizar talleres para tus estudiantes para desarrollar la competencia digital y las herramientas 2.0 que vayan a ser usadas en el proyecto, así como aprender a manejar la plataforma Twinspace.
+</li>
+<li dir="ltr">
+Crear tutoriales de Twinspace tutorials para los estudiantes y compañeros que sean primerizos en eTwinning (en el caso que sea necesario).
+</li>
+</ul>
+<li dir="ltr">
+<strong>Diseñar tu Twinspace cuidadosamente. </strong>Es decir tómate tu tiempo para diseñar el espacio que durante el proyecto vais a compartir tú y tus socios:
+</li>
+<ul>
+<li dir="ltr">
+Crear tantas páginas como tareas o actividades están planificadas dentro del proyecto.
+</li>
+<li dir="ltr">
+Añadir una breve descripción por cada uno de las tareas propuestas al principio de las mismas.
+</li>
+<li dir="ltr">
+Ponerse de acuerdo con los socios sobre cuáles son las herramientas que mejor encajan en cada una de las tareas e invitarles a que editen las páginas de las actividades..
+</li>
+</ul>
+<li dir="ltr">
+<strong>Romper el hielo para que lleguen a conocer unos a otros. </strong>Es decir haz del proyecto una comunidad de aprendizaje donde la interacción entre el alumnado sea fundamental para ampliar su motivación.
+</li>
+<ul>
+<li dir="ltr">
+Crea momentos, actividades, tareas, etc… que hagan que los alumnos interaccionen entre ellos lo más posible.
+</li>
+<li dir="ltr">
+Anima a los estudiantes a actualizar sus perfiles en Twinspace y a que añadan una breve descripción de ellos mismos así como un avatar representativo.
+</li>
+<li dir="ltr">
+Anima a los estudiantes a dejar comentarios en el muro de los estudiantes participantes.
+</li>
+<li dir="ltr">
+Crea actividades para dinamizar los perfiles en Twinspace. Ejemplo: Vota por el mejor perfil Twinspace.
+</li>
+<li dir="ltr">
+Planea sesiones de chat o videoconferencia de forma regular.
+</li>
+<li dir="ltr">
+Ofrece y encuentra maneras creativas para que los estudiantes se presenten a sí mismos, su escuela o su país.
+</li>
+</ul>
+<li dir="ltr">
+<strong>Une a los estudiantes en grupos transnacionales.</strong> Es decir crea grupos mixtos transnacionales, ya que durante el proceso tendrán que comunicarse entre ellos y tomar decisiones conjuntas que afecten a los productos finales.
+</li>
+<ul>
+<li dir="ltr">
+Distribuye a los alumnos de los socios en equipos o grupos mixtos.
+</li>
+<li dir="ltr">
+Crea una tabla con los nuevos grupos mixtos transnacionales formados y añade la tabla al Twinspace.
+</li>
+<li dir="ltr">
+Anima a los estudiantes a trabajar juntos y escribir una breve descripción sobre los componentes del grupo. Herramienta recomenda: [Titanpad](https://titanpad.com/).
+</li>
+<li dir="ltr">
+Anima a los estudiantes a crear un nombre del grupo y dibujar juntos un símbolo o emblema del mismo. Herramienta recomenda: [DrawitLive](http://www.drawitlive.com/).
+</li>
+</ul>
+<li dir="ltr">
+<strong>Planea tantas tareas colaborativas como sea posible. </strong>Es decir haz todo lo posible para que las tareas o actividades a realizar promuevan la colaboración entre el alumnado. 
+</li>
+<ul>
+<li dir="ltr">
+Intenta planear las tareas o actividades donde la contribución de los todos los miembros sea necesaria para completar dicha tarea o actividad.
+</li>
+<li dir="ltr">
+Usa el mayor número de herramientas colaborativas que sea posible. Ejemplos: [Google.Docs](https://www.google.es/intl/es/docs/about/), [Prezi](https://prezi.com/), [DrawitLive](http://www.drawitlive.com/), [Glogster](https://www.glogster.com/), etc)
+</li>
+<li dir="ltr">
+Intenta evitar la creación de carpetas para cada socio en Twinspace. Las tareas o actividades colaborativas exitosas son aquellas en las cuales no se puede decir qué compañero ha hecho una u otra tarea.
+</li>
+</ul>
+<li dir="ltr">
+<strong>Asigna responsabilidades a los estudiantes.</strong> Es decir, cuanto más responsables del proyecto sean tus estudiantes más partícipes y motivados estarán, lo que le proporcionará a tu proyecto una garantía de éxito. Evidentemente esta regla dependerá de la etapa educativa en la que se realice el proyecto. 
+</li>
+<ul>
+<li dir="ltr">
+Descubre el talento de tus estudiantes y sus habilidades dándoles responsabilidad en el proyecto y tareas a realizar.
+</li>
+<li dir="ltr">
+Une a los estudiantes en grupos de acuerdo a sus gustos, habilidades o talentos (el grupo de pintura, el grupo de fotografía, el grupo TIC, etc)
+</li>
+<li dir="ltr">
+Asigna a algunos estudiantes roles de administrador en Twinspace.
+</li>
+</ul>
+<li dir="ltr">
+<strong>Fija criterios de evaluación. </strong>Es decir, cualquier proyecto que se precie tiene que tener marcados unos criterios de evaluación que hagan palpable la mejora del mismo a través del análisis de dichos criterios. 
+</li>
+<ul>
+<li dir="ltr">
+Intenta evaluar con tus compañeros la calidad del proyecto.
+</li>
+<li dir="ltr">
+Reconoce las fortalezas y debilidades del proyecto.
+</li>
+<li dir="ltr">
+Identifica las áreas que necesitan mejorar.
+</li>
+<li dir="ltr">
+Planea actividades de evaluación durante el transcurso del proyecto (Maestros y estudiantes comparten opiniones, hacer proposiciones o comentan el trabajo del otro)
+</li>
+</ul>
+
+El nivel de los estudiantes tanto en las lenguas extranjeras como su competencia digital.
+
+Compartir el calendario con los estudiantes.
+
+<strong>Crear un plan preliminar para llevar a cabo un proyecto eTwinning exitoso.</strong>
+
+Crear cuentas en Twinspace para todos los participantes e invitar a los estudiantes al Twinspace.
+
+Ponerse de acuerdo con los socios sobre cuáles son las herramientas que mejor encajan en cada una de las tareas e invitarles a que editen las páginas de las actividades..
+
+Anima a los estudiantes a dejar comentarios en el muro de los estudiantes participantes.
+
+<strong>Une a los estudiantes en grupos transnacionales.</strong> Es decir crea grupos mixtos transnacionales, ya que durante el proceso tendrán que comunicarse entre ellos y tomar decisiones conjuntas que afecten a los productos finales.
+
+Anima a los estudiantes a crear un nombre del grupo y dibujar juntos un símbolo o emblema del mismo. Herramienta recomenda: [DrawitLive](http://www.drawitlive.com/).
+
+Intenta evitar la creación de carpetas para cada socio en Twinspace. Las tareas o actividades colaborativas exitosas son aquellas en las cuales no se puede decir qué compañero ha hecho una u otra tarea.
+
+Asigna a algunos estudiantes roles de administrador en Twinspace.
+
+Identifica las áreas que necesitan mejorar.
+
+Estas reglas de oro harán de un proyecto eTwinning una experiencia exitosa, ya que promueven la colaboración entre socios, la metodología ABP y el cambio de rol del docente y alumnado.
+
+Recordad que es importante indicar al alumnado de manera clara qué es lo que tiene que hacer, cómo lo tiene que hacer y cuándo lo tiene que hacer, diseñando las fases de la actividad de manera muy clara. Esto facilitará su autonomía y el desarrollo de las competencias.
+
+En estos nuevos procesos cabe hacer hincapié en el hecho de que tenemos que facilitar y dar oportunidad para que los alumnos puedan trabajar en equipo, tanto entre ellos, en el aula, como con sus socios, a distancia.
+
+ 
+
+ 
+
+ 
