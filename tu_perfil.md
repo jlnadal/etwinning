@@ -1,19 +1,19 @@
 
 # Tu perfil.
 
-<li dir="ltr">
-<strong>Tu perfil.</strong> Con las herramientas del perfil los usuarios de TwinSpace expresan sus primeros pasos en la creación de su identidad digital. Añadir un perfil y una breve descripción es muy importante para causar una buena impresión. Para cambiar los datos de tu perfil hay que clickar en el propio nombre.
-</li>
-<ul>
-<li dir="ltr">
+
+**Tu perfil.** Con las herramientas del perfil los usuarios de TwinSpace expresan sus primeros pasos en la creación de su identidad digital. Añadir un perfil y una breve descripción es muy importante para causar una buena impresión. Para cambiar los datos de tu perfil hay que clickar en el propio nombre.
+
+
+
 Modificar tu perfil de TwinSpace para cambiar la imagen y la información que mostrará.
-</li>
-<li dir="ltr">
+
+
 Ver la lista de todos tus TwinSpaces.
-</li>
-<li dir="ltr">
+
+
 Podrás dejar un mensaje a otro miembro cuando veas su perfil. Se verá desde todos sus TwinSpaces.
-</li>
+
 
 Modificar tu perfil de TwinSpace para cambiar la imagen y la información que mostrará.
 

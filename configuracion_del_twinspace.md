@@ -1,19 +1,19 @@
 
 # Configuración del TwinSpace.
 
-<li dir="ltr">
-<strong>Configuración del TwinSpace.</strong> Para terminar aprenderemos cómo poner “bonito” nuestro TwinSpace. Como verás en la imagen, en este apartado podrás:
-</li>
-<ul>
-<li dir="ltr">
+
+**Configuración del TwinSpace.** Para terminar aprenderemos cómo poner “bonito” nuestro TwinSpace. Como verás en la imagen, en este apartado podrás:
+
+
+
 Seleccionar aquí el aspecto del TwinSpace.
-</li>
-<li dir="ltr">
+
+
 Añadir o cambiar el título y la descripción.
-</li>
-<li dir="ltr">
+
+
 Modificar el logo o imagen del TwinSpace.
-</li>
+
 
 Seleccionar aquí el aspecto del TwinSpace.
 

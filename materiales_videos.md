@@ -1,19 +1,19 @@
 
 # Materiales: vídeos.
 
-<li dir="ltr">
-<strong>Materiales: vídeos.</strong> En muy importante compartir vídeos ya sea de tareas realizadas por el alumnado o momentos de actividad en el aula realizando el proyecto. Puedes ver cómo hacerlo en la siguiente imagen. Si quieres ampliar más información puedes hacerlo en el artículo [Gestión de videos en el TwinSpace](http://www.etwinning.es/es/formacion/minitutoriales/995-gestion-de-videos-en-el-twinspace) de eTwinning.es. En este apartado podrás:
-</li>
-<ul>
-<li dir="ltr">
+
+**Materiales: vídeos.** En muy importante compartir vídeos ya sea de tareas realizadas por el alumnado o momentos de actividad en el aula realizando el proyecto. Puedes ver cómo hacerlo en la siguiente imagen. Si quieres ampliar más información puedes hacerlo en el artículo [Gestión de videos en el TwinSpace](http://www.etwinning.es/es/formacion/minitutoriales/995-gestion-de-videos-en-el-twinspace) de eTwinning.es. En este apartado podrás:
+
+
+
 Crear carpetas para organizar los vídeos.
-</li>
-<li dir="ltr">
+
+
 Buscar imágenes, vídeos o documentos.
-</li>
-<li dir="ltr">
+
+
 Pulsar en «Añadir vídeo» para añadir un vídeo de YouTube o de Vimeo.
-</li>
+
 
 Crear carpetas para organizar los vídeos.
 

@@ -1,35 +1,35 @@
 
 # En vivo: Chat y videoconferencia.
 
-<li dir="ltr">
-<strong>En vivo: Chat y videoconferencia.</strong> En las siguientes dos imágenes os mostraremos cómo es posible mantener chats y videoconferencias dentro de la plataforma TwinSpace. Esto os ayudará a hacer más fácil la comunicación entre los participantes de vuestro proyecto, así como a hacer más “real” vuestro proyecto.
-</li>
-<ul>
-<li dir="ltr">
+
+**En vivo: Chat y videoconferencia.** En las siguientes dos imágenes os mostraremos cómo es posible mantener chats y videoconferencias dentro de la plataforma TwinSpace. Esto os ayudará a hacer más fácil la comunicación entre los participantes de vuestro proyecto, así como a hacer más “real” vuestro proyecto.
+
+
+
 Se escribe en este espacio.
-</li>
-<li dir="ltr">
+
+
 Videoconferencia.
-</li>
-<li dir="ltr">
+
+
 Ventana de chat.
-</li>
-<li dir="ltr">
+
+
 Personas en esta sala de chat.
-</li>
-<li dir="ltr">
+
+
 Crear una actividad para tu TwinSpace. Ideas:
-</li>
-<ul>
-<li dir="ltr">
+
+
+
 Chats con video y audio.
-</li>
-<li dir="ltr">
+
+
 Poner en común lo que se ve en la pantalla.
-</li>
-<li dir="ltr">
+
+
 Tareas cooperativas.
-</li>
+
 
 Se escribe en este espacio.
 
@@ -46,30 +46,30 @@ En la ayuda de eTwinning Live encontraréis más información sobre los eventos 
 
 Fuente: [eTwinning.es](http://image.slidesharecdn.com/tutortwinspace-160118070453/95/scale-partido-al-twinspace-12-638.jpg?cb=1453103371)
 
-<li dir="ltr">
+
 Ventana de chat.
-</li>
-<li dir="ltr">
+
+
 Personas en esta sala de chat.
-</li>
-<li dir="ltr">
+
+
 Se escribe en este espacio.
-</li>
-<li dir="ltr">
+
+
 Ventana de videoconferencia.
-</li>
-<li dir="ltr">
+
+
 Crear encuestas.
-</li>
-<li dir="ltr">
+
+
 Chat.
-</li>
-<li dir="ltr">
+
+
 Crear discusiones.
-</li>
-<li dir="ltr">
+
+
 Nombre usuarios.
-</li>
+
 
 Personas en esta sala de chat.
 

@@ -1,22 +1,22 @@
 
 # Foros: abrir una discusión nueva.
 
-<li dir="ltr">
-<strong>Foros: abrir una discusión nueva.</strong> En el anterior punto se indicaba cómo empezar discusiones es una pieza angular para fomentar la interacción de los participantes en el proyecto, ya sean alumnos o docentes. La imagen inferior escenifica lo que encontrarás.
-</li>
-<ul>
-<li dir="ltr">
+
+**Foros: abrir una discusión nueva.** En el anterior punto se indicaba cómo empezar discusiones es una pieza angular para fomentar la interacción de los participantes en el proyecto, ya sean alumnos o docentes. La imagen inferior escenifica lo que encontrarás.
+
+
+
 Título del foro.
-</li>
-<li dir="ltr">
+
+
 Discusiones de este foro.
-</li>
-<li dir="ltr">
+
+
 Añadir un foro nuevo.
-</li>
-<li dir="ltr">
+
+
 Volver al listado de foros.
-</li>
+
 
 Título del foro.
 

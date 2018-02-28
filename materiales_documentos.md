@@ -1,19 +1,19 @@
 
 # Materiales: documentos.
 
-<li dir="ltr">
-<strong>Materiales: documentos.</strong> En muy importante recoger las tareas o actividades realizadas por el alumnado durante el proyecto y a veces surgen muchos documentos offline u online (herramientas 2.0) como resultado. Puedes ver como hacerlo en la siguiente imagen. Si quieres ampliar más información puedes hacerlo en el artículo [Insertar herramientas 2.0 en el TwinSpace](http://www.etwinning.es/es/formacion/minitutoriales/928-insertar-herramientas-20-en-el-twinspace) de eTwinning.es. En este apartado podrás:
-</li>
-<ul>
-<li dir="ltr">
+
+**Materiales: documentos.** En muy importante recoger las tareas o actividades realizadas por el alumnado durante el proyecto y a veces surgen muchos documentos offline u online (herramientas 2.0) como resultado. Puedes ver como hacerlo en la siguiente imagen. Si quieres ampliar más información puedes hacerlo en el artículo [Insertar herramientas 2.0 en el TwinSpace](http://www.etwinning.es/es/formacion/minitutoriales/928-insertar-herramientas-20-en-el-twinspace) de eTwinning.es. En este apartado podrás:
+
+
+
 Crear carpetas para organizar los documentos.
-</li>
-<li dir="ltr">
+
+
 Buscar imágenes, vídeos o documentos.
-</li>
-<li dir="ltr">
+
+
 Arrastrar el archivo aquí o pulsar «Cargar archivo».
-</li>
+
 
 Crear carpetas para organizar los documentos.
 

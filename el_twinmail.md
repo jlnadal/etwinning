@@ -1,25 +1,25 @@
 
 # El TwinMail.
 
-<li dir="ltr">
-<strong>El TwinMail.</strong>  Es una herramienta de mensajería comparable al correo electrónico. Todos los miembros de los TwinSpaces pueden enviar mensajes al resto de participantes en la plataforma. Se pueden adjuntar archivos en los mensajes, además de guardar los mensajes. En la siguiente imagen hay más información.
-</li>
-<ul>
-<li dir="ltr">
+
+**El TwinMail.**  Es una herramienta de mensajería comparable al correo electrónico. Todos los miembros de los TwinSpaces pueden enviar mensajes al resto de participantes en la plataforma. Se pueden adjuntar archivos en los mensajes, además de guardar los mensajes. En la siguiente imagen hay más información.
+
+
+
 Ver cuántos mensajes están sin leer.
-</li>
-<li dir="ltr">
+
+
 Ver más información sobre este mensaje.
-</li>
-<li dir="ltr">
+
+
 Mover el mensaje a «Eliminados».
-</li>
-<li dir="ltr">
+
+
 Nº de mensajes.
-</li>
-<li dir="ltr">
+
+
 Pulsar aquí para redactar un mensaje nuevo.
-</li>
+
 
 Ver cuántos mensajes están sin leer.
 

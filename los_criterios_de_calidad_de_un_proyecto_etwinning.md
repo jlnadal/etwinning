@@ -11,7 +11,7 @@ Los siguientes apartados son un calco de los de la [rúbrica de sello de calidad
 
 En la citada rúbrica encontraremos los 6 criterios con sus diferentes escalas de valoración:
 
-<strong>Innovación pedagógica y creatividad</strong>. ([enlace al artículo](http://etwinning.es/rubrica-para-un-proyecto-de-calidad-1-innovacion/?lang=es))
+**Innovación pedagógica y creatividad**. ([enlace al artículo](http://etwinning.es/rubrica-para-un-proyecto-de-calidad-1-innovacion/?lang=es))
 
 
 ![](img/criterios_1.png)
@@ -134,18 +134,18 @@ Cada criterio tiene 6 descriptores que responden a distintos niveles de calidad.
 
 **1. ****Pobre**. Escaso uso de herramientas comunicativas tales como el TwinSpace u otras. 
 
-<li dir="ltr">
+
 Los alumnos no están dados de alta en el TwinSpace u otras herramientas. 
-</li>
-<li dir="ltr">
+
+
 Los documentos elaborados por los alumnos y docentes no se almacenan en el lugar adecuado. 
-</li>
-<li dir="ltr">
+
+
 No existe una distribución del trabajo. Un docente se ha encargado de publicar todos los mensajes en los blogs, por ejemplo. 
-</li>
-<li dir="ltr">
+
+
 Cuando se muestra información, no se tienen en cuenta aspectos relativos a la seguridad en Internet tales como: no publicar fotos de los alumnos, listas con sus nombres, imágenes o música con copyright, etc. 
-</li>
+
 
 Los documentos elaborados por los alumnos y docentes no se almacenan en el lugar adecuado. 
 
@@ -153,18 +153,18 @@ Cuando se muestra información, no se tienen en cuenta aspectos relativos a la s
 
 **2. Aceptable:**
 
-<li dir="ltr">
+
 Únicamente algunos alumnos están dados de alta en el TwinSpace u otras herramientas. 
-</li>
-<li dir="ltr">
+
+
 Se han utilizado algunas herramientas comunicativas o del TwinSpace: herramientas básicas para intercambio de información (textos, fotos y posiblemente vídeo-presentación de imágenes).
-</li>
-<li dir="ltr">
+
+
 No todas las entradas son producciones auténticas de los alumnos (por ejemplo, documentos que contienen información copiada directamente de Internet). 
-</li>
-<li dir="ltr">
+
+
 Existe cierta conciencia sobre aspectos relativos a la seguridad; por ejemplo, los alumnos no son identificables, pero no hay preocupación sobre asuntos de copyright en imágenes, música… 
-</li>
+
 
 Se han utilizado algunas herramientas comunicativas o del TwinSpace: herramientas básicas para intercambio de información (textos, fotos y posiblemente vídeo-presentación de imágenes).
 
@@ -172,21 +172,21 @@ Existe cierta conciencia sobre aspectos relativos a la seguridad; por ejemplo, l
 
 **3. Bien:**
 
-<li dir="ltr">
+
 Se usan algunas herramientas de comunicación del TwinSpace. 
-</li>
-<li dir="ltr">
+
+
 Se usan blogs comerciales pero no se ha tenido en cuenta la publicidad en los mismos. 
-</li>
-<li dir="ltr">
+
+
 Se usan herramientas creativas para el intercambio entre alumnos. 
-</li>
-<li dir="ltr">
+
+
 Se crean documentos con software para presentaciones, video, etc. 
-</li>
-<li dir="ltr">
+
+
 Existe cierta conciencia sobre aspectos relativos a la seguridad; por ejemplo, los alumnos no son identificables; se han tenido en cuenta aspectos relativos al copyright de la música e imágenes utilizadas pero no en todos los casos. 
-</li>
+
 
 Se usan blogs comerciales pero no se ha tenido en cuenta la publicidad en los mismos. 
 
@@ -194,24 +194,24 @@ Se crean documentos con software para presentaciones, video, etc.
 
 **4. Muy bien:**
 
-<li dir="ltr">
+
 Se usan herramientas de comunicación del TwinSpace o externas. 
-</li>
-<li dir="ltr">
+
+
 Se usan blogs comerciales sin publicidad en los que se ve un alto grado de participación por parte de TODOS los alumnos implicados en el proyecto. 
-</li>
-<li dir="ltr">
+
+
 Se usan herramientas creativas para intercambiar información. 
-</li>
-<li dir="ltr">
+
+
 Se producen documentos multimedia con el software apropiado, edición de vídeo… 
-</li>
-<li dir="ltr">
+
+
 Se usan wikis… 
-</li>
-<li dir="ltr">
+
+
 Existe conciencia plena sobre aspectos relativos a la seguridad; por ejemplo, los alumnos no son identificables; se tienen siempre en cuenta aspectos relativos al copyright de la música e imágenes utilizadas..
-</li>
+
 
 Se usan blogs comerciales sin publicidad en los que se ve un alto grado de participación por parte de TODOS los alumnos implicados en el proyecto. 
 
@@ -230,32 +230,32 @@ Fuente: [eTwinning.es](http://etwinning.es/rubrica-para-un-proyecto-de-calidad-6
 
 **Parte visible.** Los resultados del proyecto deben ser visibles:
 
-<li dir="ltr">
+
 resultados del proyecto y/o su presentación online.
-</li>
-<li dir="ltr">
+
+
 actividad/implicación de los alumnos (TwinSpace)
-</li>
-<li dir="ltr">
+
+
 documentación del proyecto (planificación, evaluación, y reflexión, propuestas de mejora, etc.)
-</li>
+
 
 actividad/implicación de los alumnos (TwinSpace)
 
 **Parte no visible.** Impacto del proyecto:
 
-<li dir="ltr">
+
 en las destrezas de los docentes.
-</li>
-<li dir="ltr">
+
+
 en las destrezas de los alumnos y en la ampliación de conocimientos.
-</li>
-<li dir="ltr">
+
+
 en lo social y personal (docentes y alumnos)
-</li>
-<li dir="ltr">
+
+
 en la comunidad educativa.
-</li>
+
 
 en las destrezas de los alumnos y en la ampliación de conocimientos.
 

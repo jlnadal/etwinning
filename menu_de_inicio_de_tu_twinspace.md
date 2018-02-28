@@ -1,34 +1,34 @@
 
 # Menú de inicio de tu TwinSpace.
 
-<li dir="ltr">
-<strong>Menú de inicio de tu TwinSpace: </strong>una vez en tu Twinspace, podrás hacer:
-</li>
-<ul>
-<li dir="ltr">
+
+**Menú de inicio de tu TwinSpace: **una vez en tu Twinspace, podrás hacer:
+
+
+
 Seleccionar uno de tus TwinSpaces, si es que tuvieras más de un proyecto.
-</li>
-<li dir="ltr">
+
+
 Cambiar el idioma para la sesión.
-</li>
-<li dir="ltr">
+
+
 Modificar la configuración de TwinSpace.
-</li>
-<li dir="ltr">
+
+
 Modificar tu perfil y comprobar tu TwinMail.
-</li>
-<li dir="ltr">
+
+
 Visualizar o añadir páginas, imágenes y vídeos.
-</li>
-<li dir="ltr">
+
+
 Utilizar el Diario de proyecto para compartir noticias sobre el proyecto en la versión pública del TwinSpace.
-</li>
-<li dir="ltr">
+
+
 Ver los mensajes publicados en el tablón de docentes (solo los verán otros miembros docentes).
-</li>
-<li dir="ltr">
+
+
 Descubrir cómo ve tu TwinSpace cualquier persona en acceso público.
-</li>
+
 
 Seleccionar uno de tus TwinSpaces, si es que tuvieras más de un proyecto.
 

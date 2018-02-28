@@ -1,7 +1,7 @@
 
 # El escritorio eTwinning Live.
 
-El escritorio <strong>eTwinning Live,</strong> de reciente creación, es el lugar en que encontrarás tu perfil una vez te hayas inscrito en la plataforma. Desde ahí, podrás ponerte en contacto con otros docentes europeos, registrar tus proyectos, ponerte en contacto con el Servicio Nacional de Apoyo, etc.
+El escritorio **eTwinning Live,** de reciente creación, es el lugar en que encontrarás tu perfil una vez te hayas inscrito en la plataforma. Desde ahí, podrás ponerte en contacto con otros docentes europeos, registrar tus proyectos, ponerte en contacto con el Servicio Nacional de Apoyo, etc.
 
 
 ![](img/eTwinning_Live.png)
@@ -70,24 +70,24 @@ En el escritorio tendremos un apartado en el que quedan registrados todos los pr
 
 Es también en este apartado de proyectos en el que podremos realizar todo aquello que tenga que ver con nuestros proyectos abiertos; 
 
-<li dir="ltr">
+
 Acceder al TwinSpace (lugar seguro y cerrado en el que se van desarrollando los proyectos)
-</li>
-<li dir="ltr">
+
+
 Descargar un certificado eTwinning (documento en el que el SNA acredita tu participación en dicho proyecto).
-</li>
-<li dir="ltr">
+
+
 Gestionar los socios del proyecto (consultar los que ya forman parte e incluir nuevos socios)
-</li>
-<li dir="ltr">
+
+
 La modificación y cierre del proyecto a la conclusión del mismo.
-</li>
-<li dir="ltr">
+
+
 Las tarjetas del proyecto que te ayudarán de una forma sencilla y rápida a contactar con tu SNA para cualquier consulta o duda acerca del proyecto.
-</li>
-<li dir="ltr">
+
+
 Y por último y tras la finalización podrás solicitar el Certificado de Calidad del proyecto a tu SNA.
-</li>
+
 
 Descargar un certificado eTwinning (documento en el que el SNA acredita tu participación en dicho proyecto).
 

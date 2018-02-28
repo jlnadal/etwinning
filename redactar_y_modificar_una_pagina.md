@@ -1,34 +1,34 @@
 
 # Redactar y modificar una página.
 
-<li dir="ltr">
-<strong>Redactar y modificar una página.</strong> Como puedes observar en la ilustración en este apartado podrás:
-</li>
-<ul>
-<li dir="ltr">
+
+**Redactar y modificar una página.** Como puedes observar en la ilustración en este apartado podrás:
+
+
+
 Definir quién puede ver esta página.
-</li>
-<li dir="ltr">
+
+
 Pulsar en su título para modificarlo.
-</li>
-<li dir="ltr">
+
+
 Definir quién puede modificar la página.
-</li>
-<li dir="ltr">
+
+
 Guardar los cambios cada vez que realices una modificación (No lo olvides).
-</li>
-<li dir="ltr">
+
+
 Insertar un archivo de imagen, un vídeo u otro documento, a partir de los materiales añadidos al TwinSpace.
-</li>
-<li dir="ltr">
+
+
 Aplicar formato al contenido con estas funciones. Al pasar el puntero del ratón, aparecerá la descripción de cada herramienta. Cada estilo de párrafo aparece en el formato que se aplicará al usarlo. Inserta un archivo de imagen, un vídeo u otro documento, a partir de los materiales añadidos al TwinSpace.
-</li>
-<li dir="ltr">
+
+
 «Archivar página» pasa la página al archivo, con lo que dejará de estar visible en el TwinSpace, que se puede rescatar, con lo que será visible de nuevo.
-</li>
-<li dir="ltr">
+
+
 Anular modificaciones.
-</li>
+
 
 Definir quién puede ver esta página.
 

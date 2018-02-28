@@ -1,34 +1,34 @@
 
 # Miembros.
 
-<li dir="ltr">
-<strong>Miembros.</strong> Como hemos visto a lo largo de los diferente módulos y bloques, es esencial que aparte de los docentes, los alumnos participen en la plataforma TwinSpace. En la siguiente imagen aprenderás qué puedes hacer en este apartado.
-</li>
-<ul>
-<li dir="ltr">
+
+**Miembros.** Como hemos visto a lo largo de los diferente módulos y bloques, es esencial que aparte de los docentes, los alumnos participen en la plataforma TwinSpace. En la siguiente imagen aprenderás qué puedes hacer en este apartado.
+
+
+
 Buscar un miembro.
-</li>
-<li dir="ltr">
+
+
 Filtrar por tipo de miembro.
-</li>
-<li dir="ltr">
+
+
 Listado de miembros.
-</li>
-<li dir="ltr">
+
+
 Modificar el tipo de miembro.
-</li>
-<li dir="ltr">
+
+
 Eliminar miembro.
-</li>
-<li dir="ltr">
+
+
 Restablecer contraseñas de estudiantes.
-</li>
-<li dir="ltr">
+
+
 Añadir nuevos miembros.
-</li>
-<li dir="ltr">
+
+
 Escribir un mensaje a todos los miembros de este TwinSpace.
-</li>
+
 
 Buscar un miembro.
 
