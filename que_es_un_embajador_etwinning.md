@@ -1,7 +1,7 @@
 
 # ¿Qué es un embajador eTwinning?
 
-Un embajador eTwinning es un docente con una gran experiencia en el trabajo y desarrollo de eTwinning. Es decir, son profesores que han llevado a cabo diferentes proyectos, los cuales han conseguido, en diferentes ocasiones, el reconocimiento del [Sello de Calidad Nacional o Europeo](http://www.etwinning.es/es/ideas/recomendaciones/943-criterios-de-evaluacion-de-sellos-de-calidad-nacional) ([criterios](http://etwinning.es/criterios-de-evaluacion-de-sellos-de-calidad-nacional-etwinning/?lang=es)) o han sido galardonados con el premio Nacional o Europeo que eTwinning ofrece.
+Un embajador eTwinning es un docente con una gran experiencia en el trabajo y desarrollo de eTwinning. Es decir, son profesores que han llevado a cabo diferentes proyectos, los cuales han conseguido, en diferentes ocasiones, el reconocimiento del [Sello de Calidad Nacional o Europeo](http://etwinning.es/solicita-ya-tu-sello-de-calidad-2017/?lang=es) ([criterios](http://etwinning.es/criterios-de-evaluacion-de-sellos-de-calidad-nacional-etwinning/?lang=es)) o han sido galardonados con el premio Nacional o Europeo que eTwinning ofrece.
 
 
 ![eTwinning.es](img/embajadores1.png)

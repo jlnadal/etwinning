@@ -29,17 +29,17 @@ Las condiciones de participación son:
         * Lengua de trabajo: todas (entre ellas, el español, cuyo uso crece día a día en Europa).
         * Perfil de participantes: docentes, alumnos, equipos directivos, asesores de centros de profesores, inspectores, bibliotecarios...
 
-* Con datos de participación del 19 de febrero de 2016:
+* Con datos de participación del 1 de Marzo de 2018:
 
 
-* En [Europa](https://www.etwinning.net/en/pub/news/press_corner/statistics.cfm) hay:
-    * 47506 proyectos.
-    * 155103 centros.
-    * 361589 profesores registrados
+* En [Europa](https://www.etwinning.net) hay:
+    * 71499 proyectos.
+    * 190498 centros.
+    * 556714 profesores registrados
 
-* En [España](http://etwinning.es/?lang=es)
-    * 2321 proyectos curso 2015-16
-    * 11373 profesores registrados
-    * 30131 docentes inscritos.
+* En [España](https://www.etwinning.net/es/pub/countries/country.cfm?c=724)
+    * 17834 proyectos
+    * 14300 centros registrados
+    * 46473 docentes inscritos.
 
 Fuente de los datos: [eTwinning.net](https://www.etwinning.net/en/pub/news/press_corner/statistics.cfm) - [eTwinning.es](https://www.etwinning.net/es/pub/news/press_corner/statistics.cfm)

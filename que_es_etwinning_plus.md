@@ -1,6 +1,8 @@
 
 # ¿Qué es eTwinning Plus?
 
+![Logo de eTwinning Plus](img/main-logo-plus.png)
+
 **eTwinning Plus es un proyecto cuyo objetivo es profundizar en la relaciones entre países de la Unión Europea y aquellos limítrofes o próximos a ella. Consiste en poner al servicio de los docentes una plataforma para conectar centros educativos de seis países “vecinos de Europa” con escuelas que participan en eTwinning.**
 
 Los países participantes en eTwinning Plus son: Armenia, Azerbaiyán, Georgia, Moldavia, Túnez y Ucrania. 
@@ -13,12 +15,4 @@ Recordar a los profesores que quieren participar en eTwinning Plus que en sus pe
 
 eTwinning Plus está disponible en inglés, francés y ruso.
 
-Si quieres saber más te recomendamos que visites cualquiera de estos enlaces:
-
-* [Portal eTwinning Plus](https://plus.etwinning.net/en/pub/index.htm) (en inglés)
-* [Artículo eTwinning Plus](https://www.etwinning.net/es/pub/connect/etwinning_plus.htm)
-* [Opinión del profesorado](https://plus.etwinning.net/en/pub/discover/people_say/etwinning_plus_teachers.htm#) (en inglés)
-* [Opinión de los alumnos](https://plus.etwinning.net/en/pub/discover/people_say/etwinning_plus_pupils.htm) (en inglés)
-* [Artículo eTwinning Plus](https://www.etwinning.net/es/pub/connect/etwinning_plus.htm)
-
-
+Si quieres saber más te recomendamos que visites el [siguiente enlace](https://plus.etwinning.net).
