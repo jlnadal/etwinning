@@ -6,22 +6,14 @@
 
 
 
-Crear carpetas para organizar los vídeos.
+* Crear carpetas para organizar los vídeos.
 
 
-Buscar imágenes, vídeos o documentos.
+* Buscar imágenes, vídeos o documentos.
 
 
-Pulsar en «Añadir vídeo» para añadir un vídeo de YouTube o de Vimeo.
+* Pulsar en «Añadir vídeo» para añadir un vídeo de YouTube o de Vimeo.
 
+![eTwinning.es](img/scale-partido-al-twinspace-7-638.jpg)
 
-Crear carpetas para organizar los vídeos.
-
-Pulsar en «Añadir vídeo» para añadir un vídeo de YouTube o de Vimeo.
-
-
-![](https://lh6.googleusercontent.com/kCsRIeLnkEO-9czbmj7AK5Ufu0N69RCapI61fwPb2cQ-cWkTOg40tF2YCtsrfw6cxfLdZWTOJd3JT7L-xVE5OtjUCaGfUz2yiEsE3hLbybjTC9B7M3E94KvLEm9OD2E5KDIK8Uhj)
-
-Fuente: [eTwinning.es](http://image.slidesharecdn.com/tutortwinspace-160118070453/95/scale-partido-al-twinspace-7-638.jpg?cb=1453103371)
-
-*Nota: es sencillo insertar imágenes, vídeos, documentos u otros archivos en las páginas que creemos. En el apartado sobre cómo modificar páginas encontrarás más detalles.
+> Nota: es sencillo insertar imágenes, vídeos, documentos u otros archivos en las páginas que creemos. En el apartado sobre cómo modificar páginas encontrarás más detalles.

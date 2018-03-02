@@ -6,23 +6,15 @@
 
 
 
-Título del foro.
+* Título del foro.
 
 
-Discusiones de este foro.
+* Discusiones de este foro.
 
 
-Añadir un foro nuevo.
+* Añadir un foro nuevo.
 
 
-Volver al listado de foros.
+* Volver al listado de foros.
 
-
-Título del foro.
-
-Añadir un foro nuevo.
-
-
-![](https://lh5.googleusercontent.com/D0cxwpExnoaHKvdEHhe2csCeXxtabQs7uL-HaBZ1K3fQTXe1rgujpUqePve2QQpJ9bz-Dpb7K0LeAB61Xwr0lkG62zcQwVoCq_wJlCwebZABXbuedjQpP_fszdKFWlcuypb_sv5Z)
-
-Fuente: [eTwinning.es](http://image.slidesharecdn.com/tutortwinspace-160118070453/95/scale-partido-al-twinspace-10-638.jpg?cb=1453103371)
+![eTwinning.es](img/scale-partido-al-twinspace-2-638.jpg)

@@ -6,20 +6,14 @@
 
 
 
-Modificar tu perfil de TwinSpace para cambiar la imagen y la información que mostrará.
+* Modificar tu perfil de TwinSpace para cambiar la imagen y la información que mostrará.
 
 
-Ver la lista de todos tus TwinSpaces.
+* Ver la lista de todos tus TwinSpaces.
 
 
-Podrás dejar un mensaje a otro miembro cuando veas su perfil. Se verá desde todos sus TwinSpaces.
+* Podrás dejar un mensaje a otro miembro cuando veas su perfil. Se verá desde todos sus TwinSpaces.
 
-
-Modificar tu perfil de TwinSpace para cambiar la imagen y la información que mostrará.
-
-Podrás dejar un mensaje a otro miembro cuando veas su perfil. Se verá desde todos sus TwinSpaces.
-
-
-![](https://lh5.googleusercontent.com/sbWMW2m6nB_MEbpXO3QEhHPMdt9jp491lt04j9JH-0kO8PGVds9pcWQNqwaJWYAfgFGXU2lGOOv5anYMuNFq9ej5EIweC0dku28C0ZRC-unlGvCJ_oQve93QCerhJ98aIUTrOF2R)
+![eTwinning.es](img/scale-partido-al-twinspace-17-638.jpg)
 
 Fuente: [eTwinning.es](http://image.slidesharecdn.com/tutortwinspace-160118070453/95/scale-partido-al-twinspace-17-638.jpg?cb=1453103371)
